@@ -10,7 +10,7 @@ int main(int argc, char **argv) {
 
 TEST(Train, test1) {
 Train train;
-EXPECT_EQ(1000, train.length())}
+EXPECT_EQ(1000, train.length());
 }
 
 TEST(Train, test2) {
