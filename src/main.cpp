@@ -6,6 +6,7 @@
 #include "train.h"
 
 int main() {
+    
     Train Train;
     for (size_t i = 0; i < 30; ++i) {
         Cage* cgtmp = new Cage();
